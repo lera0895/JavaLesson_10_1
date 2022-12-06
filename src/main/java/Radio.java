@@ -10,8 +10,6 @@ public class Radio {
     public Radio(int stationCount) {
         maxStation= stationCount -1;
     }
-    public RadioVolume(){
-        maxVolume = 10;
 
 
     public int getCurrentVolume() {
